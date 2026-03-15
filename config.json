@@ -13,6 +13,12 @@
             "portal": "https://audi.erwin-store.com",
             "path": "C:/Program Files/ODIS/start.exe"
         },
+         {
+            "name": "Skoda",
+            "type": "VAG",
+            "portal": "https://skoda.erwin-store.com",
+            "path": "C:/Program Files/ODIS/start.exe"
+        },
         {
             "name": "MERCEDES-BENZ",
             "type": "MB",
