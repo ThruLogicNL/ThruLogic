@@ -29,17 +29,12 @@
             "name": "MERCEDES-BENZ",
             "type": "MB",
             "portal": "https://b2bconnect.mercedes-benz.com",
-            "umas": "https://umas.daimler.com",
+            "umas": "https://aftersales.mercedes-benz.com/spa/home/#/",
             "path": "C:/Program Files/Mercedes/Xentry.exe"
         },
         {
             "name": "BMW / MINI",
             "type": "BMW",
             "portal": "https://aos.bmwgroup.com",
-            "path": "C:/"
         }
-    ],
-    "vault": {
-        "credentials": "VAG erWin: Gebruiker / Wachtwoord\nBMW AOS: Gebruiker / Wachtwoord\nMB B2B: Gebruiker / Wachtwoord\nUMAS: Gebruiker / Wachtwoord"
-    }
 }
