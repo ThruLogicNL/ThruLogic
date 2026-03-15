@@ -1,0 +1,33 @@
+{
+    "version": "1.0.1",
+    "merken": [
+        {
+            "name": "VOLKSWAGEN",
+            "type": "VAG",
+            "portal": "https://volkswagen.erwin-store.com/erwin/showHome.do",
+            "path": "C:/Program Files/ODIS/start.exe"
+        },
+        {
+            "name": "AUDI",
+            "type": "VAG",
+            "portal": "https://audi.erwin-store.com",
+            "path": "C:/Program Files/ODIS/start.exe"
+        },
+        {
+            "name": "MERCEDES-BENZ",
+            "type": "MB",
+            "portal": "https://b2bconnect.mercedes-benz.com",
+            "umas": "https://umas.daimler.com",
+            "path": "C:/Program Files/Mercedes/Xentry.exe"
+        },
+        {
+            "name": "BMW / MINI",
+            "type": "BMW",
+            "portal": "https://aos.bmwgroup.com",
+            "path": "C:/"
+        }
+    ],
+    "vault": {
+        "credentials": "VAG erWin: Gebruiker / Wachtwoord\nBMW AOS: Gebruiker / Wachtwoord\nMB B2B: Gebruiker / Wachtwoord\nUMAS: Gebruiker / Wachtwoord"
+    }
+}
