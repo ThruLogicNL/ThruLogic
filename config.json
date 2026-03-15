@@ -13,8 +13,14 @@
             "portal": "https://audi.erwin-store.com",
             "path": "C:/Program Files/ODIS/start.exe"
         },
+            {
+            "name": "SEAT",
+            "type": "VAG",
+            "portal": "https://seat.erwin-store.com",
+            "path": "C:/Program Files/ODIS/start.exe"
+        },
          {
-            "name": "Skoda",
+            "name": "SKODA",
             "type": "VAG",
             "portal": "https://skoda.erwin-store.com",
             "path": "C:/Program Files/ODIS/start.exe"
