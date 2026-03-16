@@ -4,35 +4,30 @@
         {
             "name": "VOLKSWAGEN",
             "type": "VAG",
-            "update_zip_url": "https://jouwserver.nl/updates/vw_update.zip",
             "portal": "https://volkswagen.erwin-store.com/erwin/showHome.do",
             "path": "C:/Program Files/ODIS/start.exe"    
         },
         {
             "name": "AUDI",
             "type": "VAG",
-            "update_zip_url": "https://jouwserver.nl/updates/vw_update.zip",
             "portal": "https://audi.erwin-store.com",
             "path": "C:/Program Files/ODIS/start.exe"
         },
         {
             "name": "SEAT",
             "type": "VAG",
-            "update_zip_url": "https://jouwserver.nl/updates/vw_update.zip",
             "portal": "https://seat.erwin-store.com",
             "path": "C:/Program Files/ODIS/start.exe"
         },
         {
             "name": "SKODA",
             "type": "VAG",
-            "update_zip_url": "https://jouwserver.nl/updates/vw_update.zip",
             "portal": "https://skoda.erwin-store.com",
             "path": "C:/Program Files/ODIS/start.exe"
         },
         {
             "name": "MERCEDES-BENZ",
             "type": "MB",
-            "update_zip_url": "https://jouwserver.nl/updates/mb_update.zip",
             "portal": "https://b2bconnect.mercedes-benz.com",
             "umas": "https://aftersales.mercedes-benz.com/spa/home/#/",
             "path": "C:/Program Files/Mercedes/Xentry.exe"
