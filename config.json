@@ -29,7 +29,7 @@
         {
             "name": "MERCEDES-BENZ",
             "type": "MB",
-            "update_zip_url": "C:/Users/Admin/Desktop/Mercedes",
+            "update_zip_url": "C:/Users/Admin/Desktop/Mercedes/XPT_Basis.zip",
             "portal": "https://b2bconnect.mercedes-benz.com",
             "umas": "https://aftersales.mercedes-benz.com/spa/home/#/",
             "path": "C:/Program Files/Mercedes/Xentry.exe"
@@ -37,7 +37,10 @@
         {
             "name": "BMW / MINI",
             "type": "BMW",
-            "update_zip_url": "C:/Users/Admin/Desktop/BMW",
+            "update_zip_url": [
+                "C:/Users/Admin/Desktop/BMW/ISTAAOS_4.57.31.32361.zip",
+                "C:/Users/Admin/Desktop/BMW/ISTAOSS_ProgrammingData_4-57-30.zip"
+            ],
             "portal": "https://aos.bmwgroup.com"
         }
     ]
